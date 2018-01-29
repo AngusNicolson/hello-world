@@ -8,5 +8,5 @@ I am a university student studying chemistry and physics at Durham University in
 - Physics simulations
 - Rasperry Pis and Arduinos
 
-But anyway... I might update this later...
+But anyway... I might update this later.
 
